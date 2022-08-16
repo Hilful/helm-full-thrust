@@ -1,0 +1,9 @@
+dependencies:
+- name: redis
+  repository: https://charts.bitnami.com/bitnami
+  version: 15.3.2
+- name: libpolicy
+  repository: file://../libpolicy
+  version: 0.1.0
+digest: sha256:33340ebb8a5e9e92fe47602c76fd2537320ff8eecd44fb1509dfc2c773651bd2
+generated: "2021-09-12T05:20:00.693969394-04:00"
